@@ -1,13 +1,13 @@
 # 📁 CMPG Project Starter Repository
 
-This repository serves as the foundation for our upcoming group project for CMPGXXX.
+This repository serves as the foundation for our upcoming group project for CMPG323.
 
 ## 📌 Purpose
-This template includes the basic setup and documentation to allow quick onboarding of team collaborators once the project groups are assigned.
+This repository provides a starting point for our group project in CMPG323, with a basic structure in place to facilitate adding team collaborators once groups are assigned.
 
 ## 🧑‍🤝‍🧑 Team
 Team collaborators will be added once groups are finalized.
 
-## ✅ Setup
+## ✅ Current Status
 - Initialized Git repository
 - Awaiting Group assignments 
